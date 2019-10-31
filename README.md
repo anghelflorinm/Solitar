@@ -1,0 +1,2 @@
+# Solitar
+Small C++ Game
